@@ -1,0 +1,36 @@
+{
+  "title": "Using Types and Declarations in Go",
+  "description": "A review of how to declare variables in Go, how to convert values, and how to use maps and slices",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Variable Declarations and Type Conversions",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Strings and Slices",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Maps",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "code": "foreground.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "showide": true
+  },
+  "backend": {
+    "imageid": "golang:1.16"
+  }
+}

@@ -1,8 +1,8 @@
-# Heading for Step 3
+# Strings and Slices
 
 This is some text.
 
 Here's a single line of runnable code:
 
-`printf 'Cello, world!\n\n'`{{copy}}
+`printf 'Jello, world!\n\n'`{{execute}}
 
